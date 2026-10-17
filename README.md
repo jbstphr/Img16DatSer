@@ -1,7 +1,7 @@
 # Img16DatSer
 Headerless 16-bit Images DataSeries Viewer (MFC-application); for Windows and Ubuntu+Wine)
 
-= Image format<s>:
+= Image format(s):
   16-bit little-endian (signed, unsigned) without header, 
 
 = The executables
