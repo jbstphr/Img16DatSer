@@ -16,7 +16,7 @@ Headerless 16-bit Images DataSeries Viewer (MFC-application); for Windows and Ub
   - profile-gutter auto-synchronized with image-view (by spatial location and grayscale)
   - easy resize/zoom and  "copy" of visible area to clipboard
 
-= License and statemets:
+= License and statements:
   - License : MIT
   - This application incapsulates a trivia subset of functions in V i e w 1 6 (in commercial SDK V a t e c h R a y e n c e V a D a v).
   - This application excludes "non-trivia" functionalities (such as "differential view", "directional-blur").
